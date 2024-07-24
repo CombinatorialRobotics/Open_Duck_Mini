@@ -1,1 +1,2 @@
 from .placo_walk_engine import PlacoWalkEngine
+from .placo_walk_engine_go import PlacoWalkEngineGo
